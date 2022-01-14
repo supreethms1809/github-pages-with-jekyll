@@ -15,3 +15,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 title: Github first title
 author: Supreeth Suresh
 description: This is a test commit
+theme: minima
